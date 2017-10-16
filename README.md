@@ -4,6 +4,8 @@ This is a gallery application written by react.
 
 It uses vue-cli to build.
 
+Online preview address https://code-mcx.github.io/vue-gallery
+
 ## Project Structure
 
 ```
