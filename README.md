@@ -1,6 +1,6 @@
 # vue-gallery
 
-This is a gallery application written by react.
+This is a gallery application written by vue.
 
 It uses vue-cli to build.
 
@@ -30,6 +30,7 @@ vue-gallery/
 
 ## Build Setup
 
+``` bash
 # install dependencies
 npm install
 
@@ -41,3 +42,4 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
